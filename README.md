@@ -23,7 +23,7 @@
 
 - 🌱 I’m currently learning **Express**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Gupta7Nikhil](https://github.com/Gupta7Nikhil)
+- 👨‍💻 All of my projects are available at [https://github.com/NikhilFullstack](https://github.com/NikhilFullstack)
 
 - 💬 Ask me about **React | JavaScript | C++**
 
