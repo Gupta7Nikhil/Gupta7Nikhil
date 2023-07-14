@@ -10,7 +10,7 @@
 [<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NikhilFullstack)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nikhil-gupta6393422087/)
 - 🔭 I’m currently working on [EdTech Project](#)
 
-- 🌱 I’m currently exploring frontend frameworks
+- 🌱 I’m currently exploring in data science.
 
 - 👨‍💻 All of my projects are available at [https://github.com/NikhilFullstack](https://github.com/NikhilFullstack)
 
