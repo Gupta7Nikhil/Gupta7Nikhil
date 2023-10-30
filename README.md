@@ -2,21 +2,21 @@
 <h1 align="center">Hi 👋, I'm Nikhil Gupta</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
 
-<h3 align="center" >Skills: REDUX / REACT / JS / HTML / CSS / EXPRESS / MONGODB</h3>
+<h3 align="center" >Skills: MERN Stack | C++ | Python</h3>
 
                   
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 [<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NikhilFullstack)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nikhil-gupta6393422087/)
-- 🔭 I’m currently working on [EdTech Project](#)
+- 🔭 I have cool [EdTech Project](https://portfolio-nikhil-fullstack.vercel.app/)
 
-- 🌱 I’m currently exploring in data science.
+- 🔭 I have cool [Social Media Application](https://mediaproject.onrender.com/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/NikhilFullstack](https://github.com/NikhilFullstack)
 
-- 💬 Ask me about **React | JavaScript | Express | MongoDb | C++**
+- 💬 Ask me about **MERN | C++ | World Affairs**
 
-- 📫 How to reach me **Gup7nik@gmail.com**
+- 📫 How to reach me nikhilguptanitj@gmail.com**
 
 - ⚡ Fun fact **GitHub was founded in 2008 by Tom Preston-Werner, Chris Wanstrath, and PJ Hyett.**
 [<img align="left" src='https://github.com/NikhilFullstack/NikhilFullstack/assets/89846475/94aab97a-21c7-48b8-a6ac-8190b0ab8f2a' alt='github' height='40'>]
